@@ -30,7 +30,7 @@ Ranking das subformações vegetais com maior extensão territorial, com destaqu
 ## 📁 Estrutura do Repositório
 
 ```
-📦 vegetacao-brasil
+📦 academico_visualizacao_informacao
  ┣ 📄 graficos_vegetacao.py       # Script principal
  ┣ 📊 vege_tabela_area.xls              # Dados de área por polígono
  ┣ 📖 vege_tabela_dicionario_conceitos.xls  # Dicionário de conceitos
