@@ -3,7 +3,7 @@ Gráficos de Vegetação — Dataset IBGE/RADAMBRASIL
 ================================================
 INSTRUÇÕES:
   1. Coloque este arquivo na mesma pasta que os dois .xls
-  2. No terminal do VS Code, rode: python graficos_vegetacao_local.py
+  2. No terminal do VS Code, rode: python graficos_vegetacao.py
   3. Os gráficos vão abrir na tela automaticamente
 """
 
