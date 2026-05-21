@@ -65,7 +65,7 @@ pip install pandas matplotlib openpyxl
 ### 3. Execute o script
 
 ```bash
-python graficos_vegetacao_local.py
+python graficos_vegetacao.py
 ```
 
 Os três gráficos vão abrir automaticamente na tela.
